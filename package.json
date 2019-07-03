@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/Adamcglee/portfolio_2.0/issues"
   },
-  "homepage": "https://github.com/Adamcglee/portfolio_2.0#readme"
+  "homepage": "https://github.com/Adamcglee/portfolio_2.0#readme",
+  "dependencies": {}
 }

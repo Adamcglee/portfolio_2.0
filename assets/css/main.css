@@ -4142,3 +4142,25 @@ input, select, textarea {
 	height: 60% !important; 
 	margin-top: 20% !important;
 }
+
+.fake-link {
+	-moz-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
+	-webkit-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
+	-ms-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
+	transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
+	border-bottom: medium double;
+	color: #e44c65;
+	text-decoration: none;
+}
+
+.fake-link:hover {
+	color: #e44c65 !important;
+	border-bottom-color: transparent;
+	cursor: pointer;
+}
+
+#emailText {
+	font-size: 1.3em !important;
+}
+
+/* Background Particles*/
