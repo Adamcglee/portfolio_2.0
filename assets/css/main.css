@@ -4159,7 +4159,7 @@ input, select, textarea {
 	cursor: pointer;
 }
 
-#copyEmail {
+#emailText {
 	font-size: 1.3em !important;
 }
 
