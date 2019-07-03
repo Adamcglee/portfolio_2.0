@@ -4122,6 +4122,14 @@ input, select, textarea {
 	font-size: 1.6em;
 }
 
+#navlink {
+	font-size: 1.3em !important;
+}
+
+#landing-name {
+	font-size: 2.5em !important;
+}
+
 #headshot:before {
 	background-image: ... !important;
 }
