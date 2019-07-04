@@ -4121,6 +4121,10 @@ input, select, textarea {
 	font-size: 1.6em;
 }
 
+.badge {
+	border-bottom: transparent !important;
+}
+
 #navlink {
 	font-size: 1.3em !important;
 }
