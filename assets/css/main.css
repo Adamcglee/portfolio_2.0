@@ -3738,7 +3738,12 @@ input, select, textarea {
 			#footer {
 				padding: 4.5em 0;
 			}
-
+		
+		/* Custom*/
+			.badge-image {
+				width: 100px !important;
+				height: 100px !important;
+			}
 	}
 
 /* Small */
@@ -4041,6 +4046,7 @@ input, select, textarea {
 			#footer {
 				padding: 3.25em 1.5em;
 			}
+			
 
 	}
 
@@ -4105,7 +4111,7 @@ input, select, textarea {
 						margin: 0;
 						padding: 0;
 					}
-
+		
 	}
 
 /* Custom */
@@ -4123,6 +4129,11 @@ input, select, textarea {
 
 .badge {
 	border-bottom: transparent !important;
+}
+
+.badge-image {
+	width: 150px;
+	height: 150px;
 }
 
 #navlink {
